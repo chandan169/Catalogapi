@@ -14083,11 +14083,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\chk\\AzureProj\\CatalogAPI\\CatalogAPI\\CatalogAPI.csproj",
+      "projectUniqueName": "D:\\48832\\Catalog\\CatalogAPI\\CatalogAPI\\CatalogAPI.csproj",
       "projectName": "CatalogAPI",
-      "projectPath": "D:\\chk\\AzureProj\\CatalogAPI\\CatalogAPI\\CatalogAPI.csproj",
+      "projectPath": "D:\\48832\\Catalog\\CatalogAPI\\CatalogAPI\\CatalogAPI.csproj",
       "packagesPath": "C:\\Users\\r1m1nrao\\.nuget\\packages\\",
-      "outputPath": "D:\\chk\\AzureProj\\CatalogAPI\\CatalogAPI\\obj\\",
+      "outputPath": "D:\\48832\\Catalog\\CatalogAPI\\CatalogAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
