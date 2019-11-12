@@ -61,9 +61,9 @@ namespace CatalogAPI
                     Version="1.0",
                     Contact=new Contact
                     {
-                        Name="Sonu Sathyadas",
-                        Email="sonusathyadas@hotmail.com",
-                        Url="https://github.com/sonusathyadas"
+                        Name="Chandan Kumar",
+                        Email="chandankumar1694@gmail.com",
+                        Url="https://github.com/chandan169"
                     }
                 });
             });
